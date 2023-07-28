@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math on Matemorfosis</title>
-    <link>https://example.com/blogra/tags/math/</link>
+    <link>https://curlyluz.github.io/Matemorfosis/tags/math/</link>
     <description>Recent content in math on Matemorfosis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/blogra/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://curlyluz.github.io/Matemorfosis/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Write Math Equations</title>
-      <link>https://example.com/blogra/posts/write-math-equations/</link>
+      <link>https://curlyluz.github.io/Matemorfosis/posts/write-math-equations/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blogra/posts/write-math-equations/</guid>
+      <guid>https://curlyluz.github.io/Matemorfosis/posts/write-math-equations/</guid>
       <description>Write math equations with ease. At first enable math:true in front matter.
 Then write this-
 $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ to produce this-

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on Matemorfosis</title>
-    <link>https://example.com/blogra/sections/</link>
+    <link>https://curlyluz.github.io/Matemorfosis/sections/</link>
     <description>Recent content in Sections on Matemorfosis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/blogra/sections/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://curlyluz.github.io/Matemorfosis/sections/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
